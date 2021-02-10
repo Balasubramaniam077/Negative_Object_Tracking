@@ -3,9 +3,10 @@
 Hey! What up guys? Are u interested to do Negative object tracking.
  Do Following the step thats are given below:
  
-                  https://github.com/Balasubramaniam077/Negative_Object_Tracking.git
- 
  Step:1 In First of all you clone the repositories by given the link below:
+ 
+                 https://github.com/Balasubramaniam077/Negative_Object_Tracking.git
+ 
  
  Step:2 You should install the Opencv by given the given Comment below:
                     
